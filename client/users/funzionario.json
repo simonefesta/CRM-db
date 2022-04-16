@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "funzionario",
+	"password": "funzionario",
+	"port": 3306,
+	"database": "CRM-db"
+}
+
